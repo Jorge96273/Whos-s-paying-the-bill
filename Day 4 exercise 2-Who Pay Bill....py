@@ -10,5 +10,5 @@ highest_score = 0
 for highest_score in student_scores:
   highest_score < n
   highest_score > n 
-
+print("Congrats")
 print(f"The highest score in the class is: {highest_score}")
